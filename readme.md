@@ -12,26 +12,10 @@ Welcome to the comprehensive repository dedicated to teaching ReactJS in depth. 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/amnydv17/react_with_chai.git
+   git clone https://github.com/amnydv17/React_with_Chai.git
    ```
 
 2. Navigate to each project folder and follow the instructions in the respective README to set up and run the project.
-
-## 📚 Modules & Projects
-
-1. **React JS RoadMap**:
-   
-   - [Watch Lesson](https://www.youtube.com/watch?v=vz1RlUyrc3w&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige)
-
-2. **Create react projects**:
-   - [Watch Lesson](https://www.youtube.com/watch?v=k3KqQvywToE&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&index=2)
-
-3. **Understand the react flow and structure**:
-   - [Watch Lesson](https://www.youtube.com/watch?v=yNbnA5pryMg&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&index=3)
-4. **Create your own react library and JSX**:
-   - [Watch Lesson](https://www.youtube.com/watch?v=kAOuj6o7Kxs&list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&index=4)
-
-... _(on going series)_
 
 ## 📖 Additional Resources
 
