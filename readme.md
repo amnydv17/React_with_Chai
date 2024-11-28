@@ -12,7 +12,7 @@ Welcome to the comprehensive repository dedicated to teaching ReactJS in depth. 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/amnydv17/react_with_chai.git
+   git clone https://github.com/amnydv17/React_with_Chai.git
    ```
 
 2. Navigate to each project folder and follow the instructions in the respective README to set up and run the project.
